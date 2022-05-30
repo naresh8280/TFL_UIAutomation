@@ -25,6 +25,4 @@ Scenario: Verify that Plan a journey widget is unable to return results with val
 	When I click Plan my journey button
 	Then I don't see the results
 	
-Note: Due to lack of time, the implementation is not completed. I was not given enough notice about this challeng (The email arrived on Friday evening and I have limited access to emails until Sunday). 
-If I had given enough notice then I would have completed it. 
-Currently facing issues with the test runs. This implementation shows my thinking towards automating the UI features. 
+Note: Due to lack of time, the implementation is not completed. I was not given enough notice about this challenge (The email arrived on Friday evening and I have limited access to emails until Sunday). If I had given enough notice then I would have completed it. Currently facing issues with the test runs. This implementation shows my thinking towards automating the UI features. 
